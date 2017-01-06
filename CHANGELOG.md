@@ -1,3 +1,7 @@
+## 1.0.4 / 2017-01-06
+
+* Adds deprecation verbage to gemspec
+
 ## 1.0.2 / 2015-11-10
 
 ### Bug fixes

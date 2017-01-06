@@ -10,7 +10,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Fletcher Nichol"]
   spec.email         = ["fnichol@nichol.ca"]
 
-  spec.summary       = "WinRM transport logic for re-using remote shells " \
+  spec.summary       = "[DEPRECATED] Please use the WinRM gem instead. " \
+                       "WinRM transport logic for re-using remote shells " \
                        "and uploading files. The original code was extracted " \
                        "from the Test Kitchen project and remains the " \
                        "primary reference use case."
